@@ -13,7 +13,7 @@ Please click on the link below:
 
 
  Repository link;
-- [Sample Repoistory](https://github.com/sbbshrestha/sbbshrestha.github.io/blob/main/index.md)
+- [Sushanta's Repoistory](https://github.com/sbbshrestha/sbbshrestha.github.io/blob/main/index.md)
 
 
 
