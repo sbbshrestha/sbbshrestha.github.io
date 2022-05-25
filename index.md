@@ -1,6 +1,6 @@
 ---
 title: HELLO EVERYONE!
-description: Welcome to Sushanta's Github page! 
+description: Welcome to Sushanta Shrestha's Github page! 
 ---
 
 Please click on the link below:
