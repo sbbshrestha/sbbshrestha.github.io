@@ -1,6 +1,30 @@
 ---
-layout: default
+title: HELLO EVERYONE!
+description: Welcome to Sushanta's Github page! 
+
 ---
+
+Please click on the link below:
+
+- [Github Assignment](/SampleData/index.md)
+
+
+
+ ![ARSENAL F.C.](/SampleData/arsenal.jpg)
+
+
+Sample Repository link;
+- [Sample Repoistory](https://github.com/sbbshrestha/sample)
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
