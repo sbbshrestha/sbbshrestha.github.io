@@ -12,8 +12,8 @@ Please click on the link below:
  ![ARSENAL F.C.](/SampleData/arsenal.jpg)
 
 
-Sample Repository link;
-- [Sample Repoistory](https://github.com/sbbshrestha/sample)
+ Repository link;
+- [Sample Repoistory](https://github.com/sbbshrestha/sbbshrestha.github.io/blob/main/index.md)
 
 
 
