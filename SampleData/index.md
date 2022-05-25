@@ -1,6 +1,6 @@
 ---
-title:Github Assignment
-description:CTBA
+title: Github Assignment
+description: CTBA
 ---
 
 
